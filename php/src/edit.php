@@ -4,7 +4,10 @@
     define('TITLE','Editar vaga');
 
     use \App\Entity\Job;
+    use \App\Session\Login;
 
+    Login::requireLogin();
+    
     // Get ID Validation
     if(!isset($_GET['id']) or !is_numeric($_GET['id'])) {
         header('location: index.php?status=error');

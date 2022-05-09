@@ -3,6 +3,9 @@
 
     use App\Entity\Job;
     use App\Database\Pagination;
+    use App\Session\Login;
+
+    Login::requireLogin();
 
     $search = filter_input(INPUT_GET, 'search', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 

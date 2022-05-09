@@ -4,6 +4,9 @@
     define('TITLE','Cadastrar vaga');
 
     use \App\Entity\Job;
+    use \App\Session\Login;
+
+    Login::requireLogin();
 
     $job = new Job;
     
