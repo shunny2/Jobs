@@ -14,15 +14,13 @@ services:
       - network
 
   mysql:
-    container_name: database
     image: mysql
-    restart: always
+    container_name: database
     environment:
-      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+      MYSQL_ROOT_PASSWORD: '<root-password>'
       MYSQL_DATABASE: ${DB_DATABASE}
       MYSQL_USER: ${DB_USERNAME}
       MYSQL_PASSWORD: ${DB_PASSWORD}
-    env_file: ./.env
     volumes:
       - /var/lib/mysql
     ports:
@@ -31,13 +29,14 @@ services:
       - network
 
   phpmyadmin:
-    container_name: phpmyadmin
     image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin
     ports:
       - '8080:80'
     restart: always
     environment:
       PMA_HOST: mysql
+      PMA_PORT: 3306
     depends_on:
       - mysql
     networks:
