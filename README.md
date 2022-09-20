@@ -14,7 +14,7 @@
 
 ## About Jobs
 
-A CRUD was performed in php for job vacancies.
+Web application developed in PHP to register job vacancies.
 
 ## Technologies
 
