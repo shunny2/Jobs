@@ -61,3 +61,7 @@ And finally, access the project URL:
 ## Status
 
 > Status: Finish.
+
+<hr></hr>
+
+<p align="center">Created by <a href="https://github.com/shunny2"><b>Alexander Davis</b></a>.</p>
