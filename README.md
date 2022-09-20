@@ -21,6 +21,7 @@ Web application developed in PHP to register job vacancies.
 - [PHP](https://www.php.net/)
 - [phpMyAdmin](https://www.phpmyadmin.net/)
 - [MySQL](https://www.mysql.com/)
+- [Docker](https://www.docker.com/)
 
 ## How to run
 
