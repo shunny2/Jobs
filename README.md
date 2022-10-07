@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#how-to-run">How to run</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#status">Status</a>
+<a href="#project-status">Project Status</a>
 </p>
 
 </br>
@@ -59,7 +59,7 @@ composer install
 And finally, access the project URL:
 [https://localhost:8000](https://localhost:8000)
 
-## Status
+## Project Status
 
 > Status: Finish.
 
