@@ -61,7 +61,7 @@ And finally, access the project URL:
 
 ## Project Status
 
-> Status: Finish.
+> Status: Completed.
 
 <hr></hr>
 
