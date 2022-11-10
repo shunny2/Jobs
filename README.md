@@ -10,7 +10,7 @@
 
 </br>
 
-![jobs](https://user-images.githubusercontent.com/72872854/191293668-0e6917aa-13e1-4163-86de-16783a5d698a.png)
+![app-steps](https://user-images.githubusercontent.com/72872854/201134737-747783e9-ee67-48f0-96dd-d56b4dec1969.gif)
 
 ## About Jobs
 
@@ -44,7 +44,7 @@ Create the "vacancies" and "users" tables. Also, create their respective fields.
 
 Example:
 
-![table-example](https://user-images.githubusercontent.com/72872854/191288829-6291e9fb-59e9-4e52-abb3-3e851d123201.png)
+![tables](https://user-images.githubusercontent.com/72872854/201132429-7f852c03-99a0-42ad-b904-ea06e7a1e33c.gif)
 
 Go back to your bash and run:
 ```bash
