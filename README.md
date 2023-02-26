@@ -14,7 +14,7 @@
 
 ## About Jobs
 
-Web application developed in PHP to register job vacancies.
+<b>Jobs</b> is a web application developed in [PHP](https://www.php.net/) to register job vacancies.
 
 ## Technologies
 
@@ -30,7 +30,7 @@ First, start by cloning the repository:
 git clone https://github.com/shunny2/jobs
 ```
 Now copy the .env.example file, create a new .env file and place the copied file in it.
-If you change the user, password, or bank, you must also change the Database.php file.
+If you change the user, password, or database, you must also change the Database.php file.
 
 Run the command to create the image and get the container running:
 ```bash
