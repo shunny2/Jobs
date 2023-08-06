@@ -1,16 +1,24 @@
 <p align="center">
-<a href="#about-jobs">About Jobs</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#technologies">Technologies</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#how-to-run">How to run</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#project-status">Project Status</a>
+  <a href="#about-jobs">About Jobs</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-run">How to run</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project-status">Project Status</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">License</a>
 </p>
 
 </br>
 
 ![app-steps](https://user-images.githubusercontent.com/72872854/201134737-747783e9-ee67-48f0-96dd-d56b4dec1969.gif)
+
+<p align="center">
+  <a href="https://img.shields.io/github/stars/shunny2/jobs?style=social"><img src="https://img.shields.io/github/stars/shunny2/jobs?style=social" alt="Stars"></a>
+  <a href="https://img.shields.io/github/forks/shunny2/jobs?style=social"><img src="https://img.shields.io/github/forks/shunny2/jobs?style=social" alt="Forks"></a>
+  <a href="https://img.shields.io/github/license/shunny2/jobs"><img src="https://img.shields.io/github/license/shunny2/jobs" alt="License"></a>
+</p>
 
 ## About Jobs
 
@@ -18,10 +26,24 @@
 
 ## Technologies
 
-- [PHP](https://www.php.net/)
-- [phpMyAdmin](https://www.phpmyadmin.net/)
-- [MySQL](https://www.mysql.com/)
-- [Docker](https://www.docker.com/)
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <td>
+      <a href="https://www.php.net/" title="PHP"><img width="128" height="128" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP logo image." /></a>
+    </td>
+    <td>
+      <a href="https://www.phpmyadmin.net/" title="phpMyAdmin"><img width="128" height="128" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" alt="phpMyAdmin logo image." /></a>
+    </td>
+    <td>
+      <a href="https://www.mysql.com/" title="MySQL"><img width="128" height="128" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL logo image." /></a>
+    </td>
+    <td>
+      <a href="https://www.docker.com/" title="Docker"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker logo image." /></a>
+    </td>
+  </tbody>
+</table>
 
 ## How to run
 
@@ -62,6 +84,10 @@ And finally, access the project URL:
 ## Project Status
 
 > Status: Completed.
+
+## License
+
+This project is under an [MIT](https://opensource.org/licenses/MIT) license.
 
 <hr></hr>
 
