@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#about-jobs">About Jobs</a>
+  <a href="#about-application">About Application</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,12 +17,12 @@
 <p align="center">
   <a href="https://img.shields.io/github/stars/shunny2/jobs?style=social"><img src="https://img.shields.io/github/stars/shunny2/jobs?style=social" alt="Stars"></a>
   <a href="https://img.shields.io/github/forks/shunny2/jobs?style=social"><img src="https://img.shields.io/github/forks/shunny2/jobs?style=social" alt="Forks"></a>
-  <a href="https://img.shields.io/github/license/shunny2/jobs"><img src="https://img.shields.io/github/license/shunny2/jobs" alt="License"></a>
+  <a href="https://img.shields.io/github/license/shunny2/jobs?style=social"><img src="https://img.shields.io/github/license/shunny2/jobs?style=social" alt="License"></a>
 </p>
 
-## About Jobs
+## About Application
 
-<b>Jobs</b> is a web application developed in [PHP](https://www.php.net/) to register job vacancies.
+"<b>Jobs</b>" is a [PHP](https://www.php.net/)-based web application designed to oversee job vacancies comprehensively. This encompasses tasks such as job posting, listing, modification, and deletion. The administration of tables was facilitated using [phpMyAdmin](https://www.phpmyadmin.net/). Additionally, data storage was achieved through the utilization of [MySQL](https://www.mysql.com/), ensuring secure and reliable data management.
 
 ## Technologies
 
